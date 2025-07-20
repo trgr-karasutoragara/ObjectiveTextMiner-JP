@@ -1,6 +1,6 @@
-[![License: MIT](https://img.shields.io/github/license/trgr-karasutoragara/zen-structure-4-u)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/trgr-karasutoragara/zen-structure-4-u?style=social)](https://github.com/trgr-karasutoragara/zen-structure-4-u/stargazers)
-![Last Commit](https://img.shields.io/github/last-commit/trgr-karasutoragara/zen-structure-4-u)
+![MIT](https://img.shields.io/github/license/trgr-karasutoragara/ObjectiveTextMiner-JP)
+![Stars](https://img.shields.io/github/stars/trgr-karasutoragara/ObjectiveTextMiner-JP?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/trgr-karasutoragara/ObjectiveTextMiner-JP)
 
 
 <br>
