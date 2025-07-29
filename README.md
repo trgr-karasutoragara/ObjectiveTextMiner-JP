@@ -189,8 +189,31 @@ python objective_text_miner.py
 3. **複数ファイル**：一度に分析可能
 4. **結果の活用**：客観的議論の材料として使用
 
+<br>
+
 ---
 
 設定完了後は、仮想環境を有効化し、 `python objective_text_miner.py` を実行すると動作します。お役に立ちますように!
 設定は、詳しい方や、お友達や、AIさんに質問すると、どうにかなるので諦めずに、お試し下さい。
 
+<br>
+
+## License
+
+MIT License
+
+<br>
+
+
+## Repository Policy
+
+- I develop prototypes with a focus on ethics.
+- There are no plans for maintenance or support.
+- The project is released under the MIT License, so feel free to modify it within the scope of the license.
+- Instead of providing support, I create new prototypes to solve emerging problems.
+
+<br>
+
+## Author Declaration
+
+I am an independent volunteer with no conflicts of interest.
